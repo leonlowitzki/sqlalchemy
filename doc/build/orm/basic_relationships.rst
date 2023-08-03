@@ -27,7 +27,7 @@ Declarative vs. Imperative Forms
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 As SQLAlchemy has evolved, different ORM configurational styles have emerged.
-For examples in this section and others that use annotated
+For example this section and others that use annotated
 :ref:`Declarative <orm_explicit_declarative_base>` mappings with
 :class:`_orm.Mapped`, the corresponding non-annotated form should use the
 desired class, or string class name, as the first argument passed to
